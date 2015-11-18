@@ -1,3 +1,3 @@
 # exo_linkedin
-Development of an add-on
+linkedIn addon <br>S
 Mission of an internship

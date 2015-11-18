@@ -1,3 +1,3 @@
 # exo_linkedin
-linkedIn addon <br>S
+linkedIn addon <br>
 Mission of an internship
